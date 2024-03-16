@@ -1,1 +1,1 @@
-#Operaciones
+# Libreria de operaciones ARITMETICAS
